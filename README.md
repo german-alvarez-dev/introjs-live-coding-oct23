@@ -1,15 +1,8 @@
-<img src="https://miro.medium.com/max/3150/1*NFwzjjur2atssvIlGia0AQ.jpeg" width="200" style="float:right">
+# React + Vite
 
-# Intro to JS | Live coding Oct 2023 @ Ironhack Madrid
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Pequeña aplicación web desarollada mediante ReactJS por [Germán Álvarez](https://www.linkedin.com/in/german-alvarez-dev/) en [Ironhack Madrid](https://www.ironhack.com/es/desarrollo-web/madrid) (abril 2022)
+Currently, two official plugins are available:
 
-## Descarga de archivos
-
-Descárgate los archivos de la API haciendo click en el botón verde de la esquina superior izquierda (`Code`) y seleccionando `Download zip`
-
-## ¿Dudas? ¿Ideas? 
-
-Si puedo ayudarte con algo contáctame en [Linkedin](https://www.linkedin.com/in/german-alvarez-dev/), así como si tienes alguna idea inspiradora para desarrollar en cualquiera de los eventos mensuales gratuitos que impartimos en el campus. 
-
-¡Nos vemos pronto!
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
