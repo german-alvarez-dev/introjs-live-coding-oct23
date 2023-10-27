@@ -1,6 +1,6 @@
 <img src="https://miro.medium.com/max/3150/1*NFwzjjur2atssvIlGia0AQ.jpeg" width="200" style="float:right">
 
-# Products API | Live coding April 2022 @ Ironhack Madrid
+# Intro to JS | Live coding Oct 2023 @ Ironhack Madrid
 
 Pequeña aplicación web desarollada mediante ReactJS por [Germán Álvarez](https://www.linkedin.com/in/german-alvarez-dev/) en [Ironhack Madrid](https://www.ironhack.com/es/desarrollo-web/madrid) (abril 2022)
 
